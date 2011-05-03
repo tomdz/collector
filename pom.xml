@@ -134,12 +134,12 @@
         <dependency>
             <groupId>log4j</groupId>
             <artifactId>log4j</artifactId>
-            <version>1.2.13</version>
+            <version>1.2.16</version>
         </dependency>
         <dependency>
             <groupId>org.apache.activemq</groupId>
             <artifactId>activemq-core</artifactId>
-            <version>4.1.2</version>
+            <version>5.5.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.geronimo.specs</groupId>
